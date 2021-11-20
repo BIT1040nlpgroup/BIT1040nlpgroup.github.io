@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "people"
+title: "科研团队"
 permalink: /people/
 author_profile: false
 ---
