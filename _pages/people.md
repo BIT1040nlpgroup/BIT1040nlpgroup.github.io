@@ -4,12 +4,11 @@ title: "科研团队"
 permalink: /people/
 author_profile: true
 ---
-# 教师
-
+### 教师
 
 ---
 
-# 在读学生
+### 在读学生
 
 {% include base_path %}
 
@@ -17,14 +16,12 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 
-
-
 ---
 
-# 已毕业学生
+### 已毕业学生
 
 {% include base_path %}
 
-{% for post1 in site.grad reversed %}
+{% for post1 in site.people.grad reversed %}
 {% include archive-single.html %}
 {% endfor %}
