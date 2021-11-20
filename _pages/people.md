@@ -2,7 +2,7 @@
 layout: archive
 title: "科研团队"
 permalink: /people/
-author_profile: false
+author_profile: true
 ---
 # 教师
 
@@ -25,6 +25,6 @@ author_profile: false
 
 {% include base_path %}
 
-{% for post in site.grad reversed %}
+{% for post1 in site.grad reversed %}
 {% include archive-single.html %}
 {% endfor %}
