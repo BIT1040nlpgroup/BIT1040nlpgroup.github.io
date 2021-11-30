@@ -25,11 +25,9 @@ author_profile: true
 
 ### 已毕业学生
 
-{% include base_path %}
+{% for post in site.people%}
 
-{% for post1 in site.people reversed %}
-
-{% if post1.collection == "grad" %}
+{% if post.collection == "grad" %}
 {% include archive-single.html %}
 
 {% endif %}
