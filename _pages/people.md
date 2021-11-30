@@ -13,7 +13,11 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.people reversed %}
+
+{% if post.collection != 'grad' %}
 {% include archive-single.html %}
+
+{% endif %}
 {% endfor %}
 
 ---
@@ -22,6 +26,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post1 in site.grad reversed %}
+{% for post1 in site.people reversed %}
+
+{% if post.collection == 'grad' %}
 {% include archive-single.html %}
+
+{% endif %}
 {% endfor %}
