@@ -22,6 +22,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post1 in site.people.grad reversed %}
+{% for post1 in site.grad reversed %}
 {% include archive-single.html %}
 {% endfor %}
