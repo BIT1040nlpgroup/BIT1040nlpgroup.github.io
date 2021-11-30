@@ -7,7 +7,7 @@ permalink: /people/fwx
 
 入学时间：2021
 
-联系方式：3120215489@bit.edu.cn
+联系方式：wenxiaofan@bit.edu.cn
 
 ---
 
