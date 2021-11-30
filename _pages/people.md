@@ -4,13 +4,13 @@ title: "科研团队"
 permalink: /people/
 author_profile: true
 ---
+{% include base_path %}
+
 ### 教师
 
 ---
 
 ### 在读学生
-
-{% include base_path %}
 
 {% for post in site.people reversed %}
 
@@ -27,7 +27,7 @@ author_profile: true
 
 {% for post in site.people%}
 
-{% if post.collection == "grad" %}
+{% if post.collection == "people" %}
 {% include archive-single.html %}
 
 {% endif %}
