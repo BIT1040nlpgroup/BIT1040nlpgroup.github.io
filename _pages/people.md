@@ -29,7 +29,7 @@ author_profile: true
 
 {% for post1 in site.people reversed %}
 
-{% if post.collection == 'grad' %}
+{% if post1.collection == 'grad' %}
 {% include archive-single.html %}
 
 {% endif %}
