@@ -14,7 +14,8 @@ author_profile: true
 
 {% for post in site.people reversed %}
 
-{% if post.collection != 'grad' %}
+{% if post.collection == 'people' %}
+
 {% include archive-single.html %}
 
 {% endif %}
