@@ -14,7 +14,7 @@ author_profile: true
 
 {% for post in site.people reversed %}
 
-{% if post.collection == 'people' %}
+{% if post.collection == "people" %}
 
 {% include archive-single.html %}
 
@@ -29,7 +29,7 @@ author_profile: true
 
 {% for post1 in site.people reversed %}
 
-{% if post1.collection == 'grad' %}
+{% if post1.collection == "grad" %}
 {% include archive-single.html %}
 
 {% endif %}
