@@ -1,7 +1,7 @@
 ---
 title: "毕业去向"
 collection: grad
-permalink: /people/graduate
+permalink: /grad/graduate
 date: 2021.11.20
 ---
 
@@ -9,4 +9,4 @@ date: 2021.11.20
 | - | - |
 | 测试1 |   |
 | 2 |   |
-| 37 |   |
+| 3711 |   |
