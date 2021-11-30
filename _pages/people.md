@@ -25,10 +25,6 @@ author_profile: true
 
 ### 已毕业学生
 
-{% for post in site.people%}
-
-{% if post.collection == "people" %}
+{% for post in site.grad%}
 {% include archive-single.html %}
-
-{% endif %}
 {% endfor %}
