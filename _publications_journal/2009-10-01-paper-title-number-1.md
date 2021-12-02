@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: /publication_conference/2009-10-01-paper-title-number-1
+permalink: /publication_journal/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.测试'
 date: 2009-10-01
 venue: 'Journal 1'
@@ -10,7 +10,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-这里的测试1111221412
+这里的测试
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 

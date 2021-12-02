@@ -4,13 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+## 会议
+
+{% for post in site.publications_conference reversed %}
+{% include archive-single.html %}
+{% endfor %}
+
+## 期刊
+
+{% for post in site.publications_journal reversed %}
+{% include archive-single.html %}
 {% endfor %}
