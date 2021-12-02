@@ -187,6 +187,12 @@ collections:
   grad:
     output: true
     permalink: /:collection/:path/
+  conf:
+    output: true
+    permalink: /:collection/:path/
+  journal:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -246,6 +252,24 @@ defaults:
   - scope:
       path: ""
       type: grad
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _conference
+  - scope:
+      path: ""
+      type: conf
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _journal
+  - scope:
+      path: ""
+      type: journal
     values:
       layout: single
       author_profile: true
