@@ -8,7 +8,7 @@ author_profile: true
 
 ## 会议
 
-{% for post in site.conf reversed %}
+{% for post in site.conference reversed %}
 {% include archive-single.html %}
 {% endfor %}
 

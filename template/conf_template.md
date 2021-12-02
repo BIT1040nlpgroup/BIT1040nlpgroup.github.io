@@ -1,6 +1,6 @@
 ---
 title: "论文题目"
-collection: conf
+collection: conference
 permalink: /conference/(文件名)
 excerpt: '一句话简介'
 date: 2009-10-01
