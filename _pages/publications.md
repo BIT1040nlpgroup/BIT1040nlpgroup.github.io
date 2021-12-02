@@ -8,12 +8,12 @@ author_profile: true
 
 ## 会议
 
-{% for post in site.publications_conference reversed %}
+{% for post in site.conference reversed %}
 {% include archive-single.html %}
 {% endfor %}
 
 ## 期刊
 
-{% for post in site.publications_journal reversed %}
+{% for post in site.journal reversed %}
 {% include archive-single.html %}
 {% endfor %}
