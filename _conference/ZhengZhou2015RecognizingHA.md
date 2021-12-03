@@ -2,7 +2,7 @@
 title: "Recognizing Human Activity in Still Images by Integrating Group-Based Contextual Cues"
 collection: conference
 permalink: /conference/ZhengZhou2015RecognizingHA
-date: 2015
+date: 2015-01-01
 paperurl: 'https://readpaper.com/paper/2074326095'
 ---
 Published in: Proceedings of the ACM Multimedia

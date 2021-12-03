@@ -2,10 +2,10 @@
 title: "Detecting hierarchical structure of community members in social networks"
 collection: journal
 permalink: /journal/FengjiaoChen2015DetectingHS
-date: 2015
+date: 2015-01-01
 paperurl: 'https://readpaper.com/paper/580955258'
 ---
-Published in: Knowledge Based SystemsProceedings of the ACM Multimedia
+Published in: Knowledge Based Systems
 
 ### Abstract
 
