@@ -3,6 +3,7 @@ title: "Fuzzy competence model drift detection for data-driven decision support 
 collection: journal
 permalink: /journal/FanDong2017FuzzyCM
 date: 2017-01-01
+\journal: KBS
 paperurl: 'https://readpaper.com/paper/2751543787'
 ---
 Author: Fan Dong and Guangquan Zhang and Jie Lu and Kan Li
