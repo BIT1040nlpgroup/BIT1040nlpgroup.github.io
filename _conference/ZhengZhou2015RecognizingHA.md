@@ -5,6 +5,8 @@ permalink: /conference/ZhengZhou2015RecognizingHA
 date: 2015-01-01
 paperurl: 'https://readpaper.com/paper/2074326095'
 ---
+Author: Zheng Zhou and Kan Li and Xiangjian He
+
 Published in: Proceedings of the ACM Multimedia
 
 ### Abstract

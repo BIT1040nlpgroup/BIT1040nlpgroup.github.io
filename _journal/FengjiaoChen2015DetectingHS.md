@@ -5,6 +5,8 @@ permalink: /journal/FengjiaoChen2015DetectingHS
 date: 2015-01-01
 paperurl: 'https://readpaper.com/paper/580955258'
 ---
+Author: Fengjiao Chen and Kan Li
+
 Published in: Knowledge Based Systems
 
 ### Abstract

@@ -6,6 +6,8 @@ excerpt: '一句话简介'
 date: 2009-10-01
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
+Author:
+
 Published in: (填写)
 
 ### Abstract
