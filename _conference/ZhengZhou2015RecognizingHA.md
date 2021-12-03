@@ -1,6 +1,5 @@
 ---
-title: "Recognizing Human Activity in Still Images by Integrating Group-Based Contextual Cues
-"
+title: "Recognizing Human Activity in Still Images by Integrating Group-Based Contextual Cues"
 collection: conference
 permalink: /conference/ZhengZhou2015RecognizingHA
 date: 2015
