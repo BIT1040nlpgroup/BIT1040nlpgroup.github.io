@@ -29,8 +29,10 @@
 
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% if post.collection == 'grad'%}
+        <p>Published in {{ post.date | default: "1900-01-01" | date: "%Y%M" }} </p>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
       {% endif %}
       <!-- 标题 -->
     
