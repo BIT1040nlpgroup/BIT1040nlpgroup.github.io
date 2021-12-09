@@ -4,9 +4,10 @@ collection: conference
 permalink: /conference/ZhengZhou2016AGM
 venue: IJCAI
 date: 2016-01-01
+author: Zheng Zhou and Kan Li and Xiangjian He.
 paperurl: 'https://readpaper.com/paper/2074326095'
 ---
-Author: Zheng Zhou and Kan Li and Xiangjian He
+Author: Zheng Zhou and Kan Li and Xiangjian He.
 
 Published in: International Joint Conference on Artificial Intelligence
 

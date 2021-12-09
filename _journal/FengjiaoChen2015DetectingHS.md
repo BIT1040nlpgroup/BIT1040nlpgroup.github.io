@@ -4,6 +4,7 @@ collection: journal
 permalink: /journal/FengjiaoChen2015DetectingHS
 date: 2015-01-01
 venue: KBS
+author: Fengjiao Chen and Kan Li.
 paperurl: 'https://readpaper.com/paper/580955258'
 ---
 Author: Fengjiao Chen and Kan Li

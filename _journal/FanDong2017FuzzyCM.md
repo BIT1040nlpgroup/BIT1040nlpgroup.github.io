@@ -4,6 +4,7 @@ collection: journal
 permalink: /journal/FanDong2017FuzzyCM
 date: 2017-01-01
 venue: KBS
+author: Fan Dong and Guangquan Zhang and Jie Lu and Kan Li.
 paperurl: 'https://readpaper.com/paper/2751543787'
 ---
 Author: Fan Dong and Guangquan Zhang and Jie Lu and Kan Li

@@ -4,9 +4,10 @@ collection: conference
 permalink: /conference/ZhengZhou2015RecognizingHA
 date: 2015-01-01
 venue: ACM MM
+author: Zheng Zhou and Kan Li and Xiangjian He.
 paperurl: 'https://readpaper.com/paper/2074326095'
 ---
-Author: Zheng Zhou and Kan Li and Xiangjian He
+Author: Zheng Zhou and Kan Li and Xiangjian He.
 
 Published in: Proceedings of the ACM Multimedia
 
