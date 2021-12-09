@@ -4,6 +4,7 @@ collection: conference
 permalink: /conference/YangLi2018DeeplySupervisedCM
 date: 2018-01-01
 venue: IJCAI
+author: Yang Li and Kan Li and Xinxin Wang.
 paperurl: 'https://www.ijcai.org/Proceedings/2018/0112.pdf'
 ---
 Author: Yang Li and Kan Li and Xinxin Wang
