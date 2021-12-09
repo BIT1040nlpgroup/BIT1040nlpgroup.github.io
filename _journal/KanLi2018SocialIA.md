@@ -3,7 +3,7 @@ title: "Social Influence Analysis: Models, Methods, and Evaluation"
 collection: journal
 permalink: /journal/KanLi2018SocialIA
 date: 2018-01-01
-journal: Engineering
+venue: Engineering
 paperurl: 'https://readpaper.com/paper/2751543787'
 ---
 Author: Kan Li and Lin Zhang and Heyan Huang

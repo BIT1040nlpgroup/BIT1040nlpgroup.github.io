@@ -3,7 +3,7 @@ title: "Detecting hierarchical structure of community members in social networks
 collection: journal
 permalink: /journal/FengjiaoChen2015DetectingHS
 date: 2015-01-01
-journal: KBS
+venue: KBS
 paperurl: 'https://readpaper.com/paper/580955258'
 ---
 Author: Fengjiao Chen and Kan Li

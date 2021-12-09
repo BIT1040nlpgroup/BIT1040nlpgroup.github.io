@@ -3,7 +3,7 @@ title: "Deeply-Supervised CNN Model for Action Recognition with Trainable Featur
 collection: conference
 permalink: /conference/YangLi2018DeeplySupervisedCM
 date: 2018-01-01
-conf: IJCAI
+venue: IJCAI
 paperurl: 'https://www.ijcai.org/Proceedings/2018/0112.pdf'
 ---
 Author: Yang Li and Kan Li and Xinxin Wang

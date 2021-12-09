@@ -2,7 +2,7 @@
 title: "A generative model for recognizing mixed group activities in still images"
 collection: conference
 permalink: /conference/ZhengZhou2016AGM
-conf: IJCAI
+venue: IJCAI
 date: 2016-01-01
 paperurl: 'https://readpaper.com/paper/2074326095'
 ---

@@ -3,7 +3,7 @@ title: "Recognizing Human Activity in Still Images by Integrating Group-Based Co
 collection: conference
 permalink: /conference/ZhengZhou2015RecognizingHA
 date: 2015-01-01
-conf: ACM MM
+venue: ACM MM
 paperurl: 'https://readpaper.com/paper/2074326095'
 ---
 Author: Zheng Zhou and Kan Li and Xiangjian He
