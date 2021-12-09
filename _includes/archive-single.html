@@ -32,7 +32,7 @@
       {% if post.collection == 'grad'%}
         <p>Published in {{ post.date | default: "1900-01-01" | date: "%Y%M" }} </p>
       {% else %}
-      <p><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        <p> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> A Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
       {% endif %}
       <!-- 标题 -->
     
