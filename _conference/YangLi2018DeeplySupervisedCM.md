@@ -7,7 +7,7 @@ venue: IJCAI
 author: Yang Li and Kan Li and Xinxin Wang.
 paperurl: 'https://www.ijcai.org/Proceedings/2018/0112.pdf'
 ---
-Author: Yang Li and Kan Li and Xinxin Wang
+Author: Yang Li and Kan Li and Xinxin Wang.
 
 Published in: International Joint Conference on Artificial Intelligence
 
