@@ -8,18 +8,31 @@ author_profile: true
 
 ### 教师
 
+李侃
+
 ---
 
 ### 在读学生
 
-{% for post in site.people reversed %}
+#### 博士
 
-{% if post.collection == "people" %}
+冯少雄  孙斌  李易为  刘鑫  范文骁
 
-{% include archive-single.html %}
+#### 硕士一年级
 
-{% endif %}
-{% endfor %}
+韩肇嘉 朱婉君 张达
+
+#### 硕士二年级
+
+[张登凯](https://bit1040nlpgroup.github.io/people/zdk) 毛硕 李洁 岳佳琪 尹航
+
+#### 硕士三年级
+
+
+
+#### 本科生
+
+王星霖
 
 ---
 

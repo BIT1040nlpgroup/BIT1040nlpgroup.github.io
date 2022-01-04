@@ -6,13 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 
-## 会议
+## Conference
 
 {% for post in site.conference reversed %}
 {% include archive-single.html %}
 {% endfor %}
 
-## 期刊
+## Journal
 
 {% for post in site.journal reversed %}
 {% include archive-single.html %}

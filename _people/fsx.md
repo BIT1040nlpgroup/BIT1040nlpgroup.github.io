@@ -8,7 +8,7 @@ permalink: /people/fsx
 ### Hello World!
 Shaoxiong Feng (冯少雄) is a PH.D. student with the dual-degree program in Beijing Institute of Technology and University of Technology Sydney. He works with many brilliant co-authors, supervised by three responsible professors.
 
-Contact: shaoxiongfeng AT bit'edu'cn
+Contact: shaoxiongfeng@bit.edu.cn
 
 ---
 
