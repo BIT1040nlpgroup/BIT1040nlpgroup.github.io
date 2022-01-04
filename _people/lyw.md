@@ -1,0 +1,32 @@
+---
+title: "李易为"
+collection: people
+permalink: /people/lyw
+---
+培养层次：   博士
+
+入学时间：   2020
+
+联系方式：   liyiwei@bit.edu.cn
+
+---
+
+### 研究方向
+
+对话生成, 机器学习
+
+---
+
+### 教育经历
+
+
+| 时间 | 教育经历 |
+| :-: | :-: |
+| 2016.08 - 2020.07 | 北京理工大学徐特立学院，学士 |
+| 2020.09 至今 | 北京理工大学计算机学院，博士 |
+
+---
+
+### 发表论文
+
+Yiwei Li, Miao Fan, Jizhou Huang and Kan Li, A Multistage Ranking Strategy for Personalized Hotel Recommendation with Human Mobility Data, In Proceedings of the 2020 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR) 
