@@ -28,7 +28,7 @@ author_profile: true
 
 ### Master (3rd year)
 
-[龚一鸣](https://bit1040nlpgroup.github.io/people/gym)  [贺韵](https://bit1040nlpgroup.github.io/people/hy)  [徐亚苗](https://bit1040nlpgroup.github.io/people/xym)
+[龚一鸣](https://bit1040nlpgroup.github.io/people/gym)  [贺韵](https://bit1040nlpgroup.github.io/people/hy)  [徐亚苗](https://bit1040nlpgroup.github.io/people/xym) [黄云飞](https://bit1040nlpgroup.github.io/people/hyf)
 
 ### Undergraduate
 
